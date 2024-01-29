@@ -6,6 +6,7 @@ Research Paper: [JOIE: A Collaborative Multi-agent Reinforcement Learning Approa
 
 ## Overview
 JOIE (Joint Operation Inference Engine) is an innovative framework designed for dialog action decomposition using a collaborative multi-agent reinforcement learning approach. This repository contains the implementation of the JOIE-3 algorithm, a cornerstone of our research.
+
 ![img_1.png](img_1.png)
 
 ## Key Components
